@@ -1,0 +1,33 @@
+*SHOW Translate into KEY format.
+
+*HEADING Clave Anura. Data converted #Noviembre 16 #21.
+
+*LISTING FILE tokey.lst
+
+*INPUT FILE specs
+
+*TRANSLATE INTO KEY FORMAT
+
+*COMMENT Numeric characters for which 'extreme' values are not to be used.
+
+*COMMENT : USE NORMAL VALUES 3 26 38 44 54 60
+
+*COMMENT Higher values make a character more likely to be used in the key.
+
+*CHARACTER RELIABILITIES 1,4 2,6 3,8 4-5,2 6,6 7,2 8-9,6 10,4 11-13,2 14-15,6
+  16-17,8 18-30,6 31-32,8 33,4 34,6 35,4 37,8 38-39,4 40,6 41-45,4 46-48,6
+  49-51,2 52,4 53-60,2 61-64,6 65-66,2 67,8 68,2 69,6 70-71,2 72,8
+
+*COMMENT Specify how numeric characters are to be converted into multistate
+characters by dividing into ranges.
+
+*COMMENT KEY STATES 31,1/2-3~ 42,1/2/3-4~ 43,1/2-3~ 45,1/2/3/4/5/6/7/8/9-10~
+53,1/2-3~ 55,1/2-3~
+
+*KEY OUTPUT FILE kchars
+
+*INPUT FILE chars
+
+*KEY OUTPUT FILE kitems
+
+*INPUT FILE items

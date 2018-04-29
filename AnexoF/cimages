@@ -1,0 +1,275 @@
+*COMMENT ~ Character images.
+
+*CHARACTER IMAGES
+#2. Hocico_dorsal.jpg
+         <@text x=340 y=33 w=300 h=60
+          t=Hocico en vista dorsal>
+         <@notes x=858 y=710>
+         <@cancel x=858 y=480>
+         <@ok x=858 y=237>
+         <@state 5 x=468 y=903 w=200 h=60>
+         <@state 4 x=176 y=907 w=200 h=60>
+         <@state 3 x=610 y=487 w=200 h=60>
+         <@state 2 x=320 y=487 w=200 h=60>
+         <@state 1 x=38 y=483 w=200 h=60>
+#6. Canthus_Region.loreal.jpg
+         <@notes x=852 y=767>
+         <@cancel x=852 y=470>
+         <@ok x=852 y=187>
+         <@text x=386 y=50 w=250 h=65
+          t=Canthus rostralis>
+         <@state 2 x=538 y=893 w=200 h=65>
+         <@state 1 x=160 y=890 w=200 h=65>
+#9. Modificacion_craneal.jpg
+         <@text x=346 y=50 w=300 h=80
+          t=Modificaci\u243?n craneal>
+         <@notes x=836 y=120>
+         <@cancel x=836 y=360>
+         <@ok x=836 y=607>
+         <@state 3 x=824 y=853 w=150 h=100>
+         <@state 2 x=440 y=850 w=350 h=100>
+         <@state 1 x=28 y=850 w=300 h=100>
+#14. Hocico_lateral.jpg
+          <@text x=354 y=33 w=300 h=60
+           t=Hocico en vista lateral>
+          <@notes x=861 y=720>
+          <@cancel x=861 y=483>
+          <@ok x=861 y=220>
+          <@state 5 x=478 y=903 w=200 h=65>
+          <@state 4 x=164 y=897 w=200 h=65>
+          <@state 3 x=596 y=470 w=200 h=65>
+          <@state 2 x=316 y=467 w=200 h=65>
+          <@state 1 x=36 y=457 w=200 h=65>
+#15. Canthus_Region.loreal.jpg
+          <@notes x=857 y=750>
+          <@cancel x=857 y=437>
+          <@ok x=857 y=177>
+          <@text x=418 y=63 w=200 h=65
+           t=Regi\u243?n loreal>
+          <@state 2 x=560 y=880 w=150 h=65>
+          <@state 1 x=180 y=880 w=150 h=65>
+#16. Pupila2.jpg
+          <@text x=368 y=130 w=200 h=65
+           t=Pupila>
+          <@notes x=866 y=743>
+          <@cancel x=866 y=463>
+          <@ok x=866 y=193>
+          <@state 3 x=608 y=737 w=200 h=125>
+          <@state 2 x=328 y=737 w=200 h=125>
+          <@state 1 x=46 y=740 w=200 h=125>
+#18. Pliegue_supratimpanico.jpg
+          <@text x=362 y=83 w=300 h=65
+           t=Pliegue supratimp\u225?nico>
+          <@notes x=858 y=737>
+          <@cancel x=858 y=437>
+          <@ok x=858 y=183>
+          <@state 3 x=580 y=850 w=200 h=65>
+          <@state 2 x=302 y=847 w=200 h=65>
+          <@state 1 x=32 y=843 w=200 h=65>
+#19. Timpano.jpg
+          <@notes x=822 y=747>
+          <@cancel x=822 y=477>
+          <@ok x=822 y=190>
+          <@text x=404 y=23 w=200 h=65
+           t=T\u237?mpano>
+          <@state 2 x=482 y=900 w=200 h=65>
+          <@state 1 x=478 y=473 w=200 h=65>
+#20. Timpano.jpg
+          <@notes x=857 y=750>
+          <@cancel x=857 y=457>
+          <@ok x=857 y=167>
+          <@text x=374 y=27 w=250 h=65
+           t=Anillo timp\u225?nico>
+          <@state 2 x=458 y=900 w=350 h=65>
+          <@state 1 x=464 y=470 w=350 h=65>
+#22. Vomerinos.jpg
+          <@notes x=864 y=753>
+          <@cancel x=864 y=470>
+          <@ok x=864 y=183>
+          <@text x=440 y=27 w=250 h=65
+           t=Procesos vomerinos>
+          <@state 3 x=586 y=913 w=200 h=60>
+          <@state 2 x=586 y=783 w=200 h=60>
+          <@state 1 x=584 y=383 w=200 h=60>
+#23. Forma_vomerinos.jpg
+          <@notes x=878 y=750>
+          <@cancel x=878 y=460>
+          <@ok x=878 y=180>
+          <@state 6 x=678 y=900 w=174 h=60>
+          <@state 5 x=478 y=903 w=170 h=60>
+          <@state 4 x=276 y=907 w=170 h=60>
+          <@state 3 x=668 y=453 w=170 h=60>
+          <@state 2 x=468 y=453 w=170 h=60>
+          <@state 1 x=278 y=453 w=170 h=60>
+          <@text x=428 y=27 w=300 h=80
+           t=Forma de los vomerinos>
+#24. Posición_vomerinos.jpg
+          <@text x=496 y=27 w=350 h=65
+           t=Posici\u243?n de los vomerinos>
+          <@notes x=880 y=640>
+          <@cancel x=880 y=437>
+          <@ok x=880 y=227>
+          <@state 2 x=680 y=863 w=200 h=100>
+          <@state 1 x=432 y=860 w=200 h=100>
+#25. Coanas.jpg
+          <@text x=418 y=30 w=272 h=60
+           t=Coanas>
+          <@notes x=886 y=763>
+          <@cancel x=886 y=480>
+          <@ok x=886 y=190>
+          <@state 5 x=614 y=910 w=190 h=60>
+          <@state 4 x=318 y=907 w=210 h=60>
+          <@state 3 x=682 y=467 w=190 h=60>
+          <@state 2 x=474 y=463 w=190 h=60>
+          <@state 1 x=268 y=460 w=190 h=60>
+#36. Terminacion.jpg
+          <@text x=276 y=40 w=400 h=60
+           t=Terminaci\u243?n distal de los digitos>
+          <@notes x=830 y=707>
+          <@cancel x=830 y=463>
+          <@ok x=830 y=203>
+          <@state 2 x=446 y=890 w=400 h=60>
+          <@state 1 x=162 y=890 w=162 h=60>
+#37. Discos.jpg
+          <@text x=366 y=30 w=300 h=60
+           t=Discos de los digitos>
+          <@notes x=859 y=647>
+          <@cancel x=859 y=393>
+          <@state 3 x=610 y=847 w=300 h=116>
+          <@state 2 x=370 y=847 w=200 h=116>
+          <@ok x=859 y=143>
+          <@state 1 x=82 y=847 w=200 h=116>
+#39. Longitud_manual.jpg
+          <@text x=204 y=47 w=600 h=60
+           t=Dedos manuales listados en n\u250?meros romanos>
+#40. Cartilago_intercalar.jpg
+          <@text x=170 y=17 w=700 h=65
+           t=Elemento intercalar entre la distal y pen\u250?ltima falange>
+          <@state 2 x=42 y=853 w=350 h=65>
+          <@state 1 x=36 y=410 w=350 h=65>
+          <@notes x=816 y=757>
+          <@cancel x=816 y=460>
+          <@ok x=816 y=177>
+#41. Subarticulares_manos.jpg
+          <@notes x=846 y=740>
+          <@cancel x=846 y=453>
+          <@ok x=846 y=180>
+          <@text x=288 y=27 w=480 h=60
+           t=Tub\u233?rculos subarticulares manuales>
+          <@state 2 x=562 y=907 w=200 h=60>
+          <@state 1 x=200 y=907 w=200 h=60>
+#43. Supernumerarios_manos.jpg
+          <@text x=296 y=23 w=500 h=60
+           t=Tub\u233?rculos supernumerarios manuales>
+          <@notes x=850 y=740>
+          <@cancel x=850 y=477>
+          <@ok x=850 y=217>
+          <@state 2 x=566 y=907 w=188 h=60>
+          <@state 1 x=168 y=907 w=180 h=60>
+#46. Membrana_interdigital.jpg
+          <@notes x=854 y=813>
+          <@cancel x=854 y=540>
+          <@ok x=854 y=250>
+          <@state 4 x=630 y=807 w=150 h=60>
+          <@state 3 x=626 y=263 w=150 h=60>
+          <@state 2 x=30 y=267 w=150 h=60>
+          <@state 1 x=30 y=630 w=150 h=60>
+          <@text x=170 y=17 w=700 h=60
+           t=Membrana interdigital entre los dedos manuales I y II>
+#47. Membrana_interdigital.jpg
+          <@text x=136 y=27 w=700 h=60
+           t=Membrana interdigital entre los dedos manuales II y III>
+          <@notes x=846 y=830>
+          <@cancel x=846 y=523>
+          <@ok x=846 y=253>
+          <@state 4 x=636 y=820 w=150 h=60>
+          <@state 3 x=632 y=260 w=150 h=60>
+          <@state 2 x=26 y=320 w=150 h=60>
+          <@state 1 x=24 y=637 w=150 h=60>
+#48. Membrana_interdigital.jpg
+          <@notes x=852 y=797>
+          <@cancel x=852 y=507>
+          <@ok x=852 y=263>
+          <@text x=134 y=17 w=700 h=76
+           t=Membrana interdigital entre los dedos manuales III y IV>
+          <@state 4 x=634 y=780 w=150 h=60>
+          <@state 3 x=632 y=250 w=150 h=60>
+          <@state 2 x=22 y=253 w=150 h=60>
+          <@state 1 x=22 y=633 w=150 h=60>
+#53. Longitud_pedial.jpg
+          <@text x=208 y=30 w=600 h=60
+           t=Dedos pediales listados en n\u250?meros romanos>
+#54. subarticulares_pediales.jpg
+          <@text x=288 y=13 w=500 h=60
+           t=Tub\u233?rculos subarticulares pediales>
+          <@notes x=850 y=757>
+          <@cancel x=850 y=480>
+          <@ok x=850 y=190>
+          <@state 2 x=540 y=907 w=200 h=60>
+          <@state 1 x=146 y=907 w=200 h=60>
+#56. Supernumerarios_pediales.jpg
+          <@notes x=844 y=763>
+          <@cancel x=844 y=487>
+          <@ok x=844 y=190>
+          <@text x=272 y=27 w=450 h=60
+           t=Tuberculos supernumerarios pediales>
+          <@state 2 x=542 y=897 w=200 h=60>
+          <@state 1 x=154 y=903 w=200 h=60>
+#58. Metatarsal_interno.jpg
+          <@notes x=836 y=760>
+          <@cancel x=836 y=477>
+          <@ok x=836 y=203>
+          <@text x=310 y=30 w=400 h=60
+           t=Tub\u233?rculo metatarsal interno>
+          <@state 2 x=558 y=900 w=150 h=60>
+          <@state 1 x=184 y=900 w=150 h=60>
+#59. Metatarsa_externo.jpg
+          <@notes x=830 y=747>
+          <@cancel x=830 y=440>
+          <@ok x=830 y=170>
+          <@text x=326 y=27 w=350 h=60
+           t=Tub\u233?rculo metatarsal externo>
+          <@state 2 x=542 y=903 w=140 h=60>
+          <@state 1 x=186 y=900 w=140 h=60>
+#61. Membrana_interdigital.jpg
+          <@text x=152 y=27 w=700 h=76
+           t=Membrana interdigital entre los dedos pedial I y II>
+          <@notes x=858 y=783>
+          <@cancel x=858 y=523>
+          <@ok x=858 y=233>
+          <@state 4 x=642 y=807 w=150 h=60>
+          <@state 3 x=636 y=243 w=150 h=60>
+          <@state 2 x=28 y=220 w=150 h=60>
+          <@state 1 x=22 y=603 w=150 h=60>
+#62. Membrana_interdigital.jpg
+          <@notes x=856 y=810>
+          <@cancel x=856 y=543>
+          <@ok x=856 y=270>
+          <@state 4 x=642 y=807 w=150 h=60>
+          <@state 3 x=640 y=273 w=150 h=60>
+          <@state 2 x=18 y=250 w=150 h=60>
+          <@state 1 x=20 y=627 w=150 h=60>
+          <@text x=142 y=30 w=700 h=60
+           t=Membrana interdigital entre los dedos pediales II y III>
+#63. Membrana_interdigital.jpg
+          <@notes x=856 y=517>
+          <@cancel x=856 y=817>
+          <@ok x=856 y=233>
+          <@text x=140 y=27 w=700 h=60
+           t=Membrana interdigital entre los dedos pediales III y IV>
+          <@state 4 x=644 y=797 w=150 h=60>
+          <@state 3 x=642 y=253 w=150 h=60>
+          <@state 2 x=26 y=267 w=150 h=60>
+          <@state 1 x=28 y=600 w=150 h=60>
+#64. Membrana_interdigital.jpg
+          <@state 4 x=634 y=777 w=150 h=60>
+          <@text x=140 y=27 w=700 h=60
+           t=Membrana interdigital entre los dedos pediales IV y V>
+          <@notes x=854 y=797>
+          <@cancel x=854 y=527>
+          <@ok x=854 y=253>
+          <@state 3 x=636 y=253 w=150 h=60>
+          <@state 2 x=32 y=267 w=150 h=60>
+          <@state 1 x=30 y=610 w=150 h=60>
+
+*COMMENT Data should be entered via the 'Character edit' dialog.

@@ -1,0 +1,137 @@
+CONFOR version 3.00 (Java)
+
+M. J. Dallwitz, T.A. Paine and E.J. Zurcher
+
+CSIRO Division of Entomology, GPO Box 1700, Canberra, ACT 2601, Australia
+Phone +61 2 6246 4075. Fax +61 2 6246 4000. Email delta@ento.csiro.au
+
+Java edition ported by the Atlas of Living Australia, 2010.
+
+Translate into INTKEY format.
+..ve_V3\toint,3 *LISTING FILE toint.lst
+..ve_V3\toint,4 
+..ve_V3\toint,5 *COMMENT Heading which will appear in the Intkey title bar.
+..ve_V3\toint,6 
+..ve_V3\toint,7 *COMMENT : HEADING DELTA Sample Data
+..ve_V3\toint,8 
+..ve_V3\toint,9 *COMMENT Subheading which will appear in the Intkey log file.
+..e_V3\toint,10 
+..e_V3\toint,11 *COMMENT : REGISTRATION SUBHEADING Version: 21st September 2000.
+..e_V3\toint,12 
+..ve_V3\specs,1 *SHOW ~ Dataset specifications.
+..ve_V3\specs,2 
+..ve_V3\specs,3 *DATA BUFFER SIZE 4000
+..ve_V3\specs,4 
+..ve_V3\specs,5 *NUMBER OF CHARACTERS 72
+..ve_V3\specs,6 
+..ve_V3\specs,7 *MAXIMUM NUMBER OF STATES 12
+..ve_V3\specs,8 
+..ve_V3\specs,9 *MAXIMUM NUMBER OF ITEMS 41
+..e_V3\specs,10 
+..e_V3\specs,11 *CHARACTER TYPES 31,EUM 40,OM
+..e_V3\specs,12 
+..e_V3\specs,13 *NUMBERS OF STATES 1,3 2,5 5,3 8,5 9-13,3 14,5 16,3 18,3 21-22,3 23,6 25,5 29,5
+..e_V3\specs,14   32,3 33,4 35,5 37-38,3 39,12 42,4 44,9 45,3 46-48,4 49,3 50,5 51,4 53,8 55,4
+..e_V3\specs,15   60,3 61-64,4 65,3 68,5 69,4 71,6 72,3
+..e_V3\specs,16 
+..e_V3\specs,17 *IMPLICIT VALUES
+..e_V3\specs,18 
+..e_V3\specs,19 *DEPENDENT CHARACTERS 20,2:21:38 22,3:23-24 31,2:32 36,1:37-38:60 43,2:52
+..e_V3\specs,20   56,2:57
+..e_V3\specs,21 
+..e_V3\specs,22 *MANDATORY CHARACTERS 32
+..e_V3\toint,13 *INPUT FILE specs
+..e_V3\toint,14 
+..e_V3\toint,15 *TRANSLATE INTO INTKEY FORMAT
+..e_V3\toint,16 
+..e_V3\toint,17 *OMIT INNER COMMENTS
+..e_V3\toint,18 
+..e_V3\toint,19 *COMMENT Specify a text character or characters containing synonyms, common
+..e_V3\toint,20 names, etc. These characters can be searched in Intkey.
+..e_V3\toint,21 
+..e_V3\toint,22 *COMMENT : CHARACTER FOR SYNONOMY 1
+..e_V3\toint,23 
+..e_V3\toint,24 *COMMENT Specify character(s) for which the word 'or' will be omitted between
+..e_V3\toint,25 states in descriptions. Typically used for geographical-distribution characters.
+..e_V3\toint,26 
+..e_V3\toint,27 *COMMENT : OMIT OR FOR CHARACTER 86
+..e_V3\toint,28 
+..e_V3\toint,29 *COMMENT : EXCLUDE CHARACTERS
+..e_V3\toint,30 
+..e_V3\toint,31 *COMMENT Influences the order in which characters appear in 'best' order in
+..e_V3\toint,32 Intkey. A reliability of 0 causes the character to be omitted from the 'best'
+..e_V3\toint,33 list, and from diagnostic descriptions.
+..e_V3\toint,34 
+..e_V3\toint,35 *CHARACTER RELIABILITIES 1-2,6 3,2 4-30,6 31-32,8 33,4 34,6 35,4 37,6 38-39,4
+..e_V3\toint,36   40,6 41-48,4 49-51,2 52,4 53-72,2
+..e_V3\toint,37 
+..e_V3\toint,38 *COMMENT : NEW PARAGRAPHS AT CHARACTERS 1-2 12 25-26 68 77-78 87-89
+..e_V3\toint,39 
+..e_V3\toint,40 *COMMENT Headings within in taxon descriptions. The numbers specify the
+..e_V3\toint,41 character before which the heading is placed.
+..e_V3\toint,42 
+..e_V3\toint,43 *COMMENT : ITEM SUBHEADINGS
+..e_V3\toint,44 #1. \pard\li0\fi340
+..e_V3\toint,45 #2. \pard\li0\fi340\b{}Habit, vegetative morphology\b0{}.
+..e_V3\toint,46 #12. \pard\li0\fi340\b{}Inflorescence\b0{}.
+..e_V3\toint,47 #25. \pard\li0\fi340\b{}Female-sterile spikelets\b0{}.
+..e_V3\toint,48 #26. \pard\li0\fi340\b{}Female-fertile spikelets, florets, fruit\b0{}.
+..e_V3\toint,49 #68. \pard\li0\fi340\b{}Photosynthetic pathway, leaf blade anatomy\b0{}.
+..e_V3\toint,50 #77. \pard\li0\fi340\b{}Special diagnostic feature.\b0{}
+..e_V3\toint,51 #78. \pard\li0\fi340\b{}Taxonomy, distribution\b0{}.
+..e_V3\toint,52 #87. \pard\li0\fi340\b{}Anatomical references\b0{}.
+..e_V3\toint,53 #88. \pard\li0\fi340\b{}Miscellaneous\b0{}.
+..e_V3\toint,54 
+..e_V3\cnotes,1 *COMMENT ~ Character notes.
+..e_V3\cnotes,2 
+..e_V3\cnotes,3 CHARACTER NOTES
+..e_V3\toint,55 *INPUT FILE cnotes
+..e_V3\toint,56 
+..e_V3\ofonts,1 *COMMENT ~ Set fonts for image overlays.
+..e_V3\ofonts,2 
+..e_V3\ofonts,3 *OVERLAY FONTS
+..e_V3\ofonts,4 #1.
+..e_V3\ofonts,5   8 4 0 2 2 0 SansSerif
+..e_V3\ofonts,6 #2.
+..e_V3\ofonts,7   8 4 0 2 2 0 SansSerif
+..e_V3\ofonts,8 #3.
+..e_V3\ofonts,9   60 4 0 0 0 0 Dialog
+..e_V3\toint,57 *INPUT FILE ofonts
+..e_V3\toint,58 
+.._V3\cimages,1 *COMMENT ~ Character images.
+.._V3\cimages,2 
+.._V3\cimages,3 CHARACTER IMAGES
+..3\cimages,275 *COMMENT Data should be entered via the 'Character edit' dialog.
+..e_V3\toint,59 *INPUT FILE cimages
+..e_V3\toint,60 
+.._V3\timages,1 *COMMENT ~ Taxon images.
+.._V3\timages,2 
+.._V3\timages,3 TAXON IMAGES
+.._V3\timages,5 *COMMENT Data should be entered via the 'Item edit' dialog.
+..e_V3\toint,61 *INPUT FILE timages
+..e_V3\toint,62 
+..e_V3\toint,63 *COMMENT If you want Intkey to link to descriptions generated by 'tonatsr',
+..e_V3\toint,64 activate the following directive. Before running this file (toint), you must
+..e_V3\toint,65 modify 'ofiles', and make additions to your data as described in 'ofiles'.
+..e_V3\toint,66 
+..e_V3\toint,67 *COMMENT : INPUT FILE ofiles
+..e_V3\toint,68 
+..e_V3\toint,69 *INTKEY OUTPUT FILE ichars
+..e_V3\toint,70 
+..ve_V3\chars,1 *SHOW ~ Character list.
+..ve_V3\chars,2 
+..ve_V3\chars,3 CHARACTER LIST
+..e_V3\toint,71 *INPUT FILE chars
+..e_V3\toint,72 
+..e_V3\toint,73 *INTKEY OUTPUT FILE iitems
+..e_V3\toint,74 
+..ve_V3\items,1 *SHOW ~ Item descriptions
+..ve_V3\items,2 
+..ve_V3\items,3 ITEM DESCRIPTIONS
+..e_V3\toint,75 *INPUT FILE items
+Normal termination.
+
+Output files - 
+   toint.lst
+   ichars
+   iitems

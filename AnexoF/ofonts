@@ -1,0 +1,9 @@
+*COMMENT ~ Set fonts for image overlays.
+
+*OVERLAY FONTS
+#1.
+  8 4 0 2 2 0 SansSerif
+#2.
+  8 4 0 2 2 0 SansSerif
+#3.
+  60 4 0 0 0 0 Dialog

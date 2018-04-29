@@ -1,0 +1,407 @@
+*SHOW ~ Character list.
+
+*CHARACTER LIST
+
+#1. Tama\u241?o/
+       1. peque\u241?o/
+       2. mediano/
+       3. grande/
+
+#2. Hocico en vista dorsal/
+       1. semicircular/
+       2. redondeado/
+       3. puntiagudo/
+       4. truncado/
+       5. mucronado/
+
+#3. Proboscide carnosa/
+       1. presente/
+       2. ausente/
+
+#4. Narinas/
+       1. protuberantes/
+       2. planas/
+
+#5. Regi\u243?n internarinal/
+       1. recta/
+       2. c\u243?ncava/
+       3. convexa/
+
+#6. \i{}Canthus rostralis\i0{}/
+       1. distinguible/
+       2. indistinguible/
+
+#7. Ojos/
+       1. prominentes/
+       2. sencillos/
+
+#8. P\u225?rpado superior del ojo/
+       1. simple/
+       2. carnoso/
+       3. con tub\u233?rculos/
+       4. con cresta supraorbital/
+       5. con prolongaci\u243?n d\u233?rmica triangular/
+
+#9. Modificaci\u243?n craneal/
+       1. crestas cef\u225?licas/
+       2. flechas posterolaterales de los escuamosales/
+       3. ausente/
+
+#10. Relaci\u243?n entre el ancho y largo de la cabeza/
+       1. cabeza igual de ancha que de larga/
+       2. cabeza m\u225?s ancha que larga/
+       3. cabeza m\u225?s larga que ancha/
+
+#11. Relaci\u243?n entre la distancia interorbital y el ancho del p\u225?rpado
+          superior del ojo/
+       1. distancia interorbital igual que el ancho del p\u225?rpado superior/
+       2. distancia interorbital mayor que el ancho del p\u225?rpado superior/
+       3. distancia interorbital menor que el ancho del p\u225?rpado superior/
+
+#12. Relaci\u243?n entre el di\u225?metro del ojo y la distancia ojo-narina/
+       1. di\u225?metro del ojo igual que la distancia ojo-narina/
+       2. di\u225?metro del ojo mayor que la distancia ojo-narina/
+       3. di\u225?metro del ojo menor que la distancia ojo-narina/
+
+#13. Relaci\u243?n entre el ancho del p\u225?rpado superior del ojo y la
+          distancia internarinal/
+       1. ancho del p\u225?rpado superior del ojo igual que la distancia
+          internarinal/
+       2. ancho del p\u225?rpado superior del ojo mayor que la distancia
+          internarinal/
+       3. ancho del p\u225?rpado superior del ojo menor que la distancia
+          internarinal/
+
+#14. Hocico en vista lateral/
+       1. redondeado/
+       2. puntiagudo/
+       3. inclinado/
+       4. truncado/
+       5. mucronado/
+
+#15. Regi\u243?n loreal/
+       1. c\u243?ncava/
+       2. plana/
+
+#16. Pupila/
+       1. redonda/
+       2. el\u237?ptica horizontal/
+       3. el\u237?ptica vertical/
+
+#17. Membrana palpebral/
+       1. transl\u250?cida/
+       2. reticulada/
+
+#18. Pliegue supratimp\u225?nico/
+       1. cartilaginoso/
+       2. osificado/
+       3. ausente/
+
+#19. T\u237?mpano/
+       1. visible/
+       2. oculto/
+
+#20. Anillo timp\u225?nico/
+       1. distinguible/
+       2. indistinguible o ausente/
+
+#21. Relaci\u243?n entre el di\u225?metro del t\u237?mpano y el di\u225?metro
+          del ojo/
+       1. di\u225?metro del t\u237?mpano igual que el di\u225?metro ojo/
+       2. di\u225?metro del t\u237?mpano mayor que el di\u225?metro ojo/
+       3. di\u225?metro del t\u237?mpano menor que el di\u225?metro ojo/
+
+#22. Procesos vomerinos/
+       1. abiertos/
+       2. cerrados/
+       3. ausentes/
+
+#23. Forma de los vomerinos/
+       1. recta/
+       2. oblicua/
+       3. en "U"/
+       4. en "V"/
+       5. redondeada/
+       6. ausentes/
+
+#24. Posici\u243?n de los vomerinos/
+       1. entre las coanas/
+       2. posterior a las coanas/
+
+#25. Coanas/
+       1. redondeadas/
+       2. elipsoidales/
+       3. rectangulares/
+       4. cuadrangulares/
+       5. triangulares/
+
+#26. Forma de la lengua/
+       1. redonda/
+       2. elipsoidal/
+
+#27. Contorno de la lengua/
+       1. entera/
+       2. hendida/
+
+#28. Adherencia de la lengua/
+       1. parte anterior adherida a la base de la boca/
+       2. completamente adherida a la base de la boca/
+
+#29. Saco vocal/
+       1. simple, medial, subgular/
+       2. bilobulado subgular/
+       3. pareado subgular/
+       4. pareado lateral/
+       5. ausente/
+
+#30. Gl\u225?ndula mental/
+       1. distinguible/
+       2. ausente/
+
+#31. Membrana axial/
+       1. presente/
+       2. ausente/
+
+#32. Extensi\u243?n de la membrana axial/
+       1. hasta el codo/
+       2. hasta la mitad o mas all\u225? de la mitad del antebrazo/
+       3. hasta antes de la mitad del antebrazo/
+
+#33. Ornamentos del Antebrazo/
+       1. con pliegue ulnar simple\par{}/
+       2. con pliegue ulnar festoneado\par{}/
+       3. con tub\u233?rculos ventrolaterales\par{}/
+       4. con ornamentos ausentes\par{}/
+
+#34. Espina humeral/
+       1. completamente desarrollada/
+       2. ausente/
+
+#35. Excrecencias nupciales/
+       1. tipo I/
+       2. tipo II/
+       3. tipo III/
+       4. tipo IV/
+       5. ausente/
+
+#36. Terminaci\u243?n distal de los d\u237?gitos/
+       1. simple/
+       2. expandida en forma de disco/
+
+#37. Discos de los d\u237?gitos/
+       1. redondeados/
+       2. truncados/
+       3. con escudetes dorsales y surco medial/
+
+#38. Relaci\u243?n entre el di\u225?metro del disco y el di\u225?metro del
+          t\u237?mpano/
+       1. di\u225?metro del III disco igual que el di\u225?metro del
+          t\u237?mpano/
+       2. di\u225?metro del III disco mayor que el di\u225?metro del
+          t\u237?mpano/
+       3. di\u225?metro del III disco menor que el di\u225?metro del
+          t\u237?mpano/
+
+#39. Longitud relativa de los dedos manuales/
+       1. I<II<IV<III/
+       2. I<II=IV<III/
+       3. I<II<IV=III/
+       4. I<II=III<IV/
+       5. I=II=IV<III/
+       6. I=II=IV=III/
+       7. II<I<IV<III/
+       8. II=I<IV<III/
+       9. II=III<I<IV/
+       10. II<IV<I<III/
+       11. II=IV<I<III/
+       12. II<I=IV<IIII/
+
+#40. Elemento intercalar entre la distal y pen\u250?ltima falange/
+       1. cartilaginoso u osificado/
+       2. ausente/
+
+#41. Tub\u233?rculos subarticulares manuales/
+       1. distinguibles/
+       2. indistinguibles/
+
+#42. Tub\u233?rculo subarticular distal en el IV dedo manual/
+       1. simple/
+       2. b\u237?fido/
+       3. bipartito/
+       4. ausente/
+
+#43. Tub\u233?rculos supernumerarios manuales/
+       1. distinguibles/
+       2. ausentes/
+
+#44. Tub\u233?rculo palmar/
+       1. redondeado/
+       2. elipsoidal/
+       3. triangular/
+       4. b\u237?fido/
+       5. tr\u237?fido/
+       6. bipartito/
+       7. tripartito/
+       8. multipartito/
+       9. ausente/
+
+#45. Tub\u233?rculo thenar o prepollical/
+       1. simple/
+       2. con modificaci\u243?n en espina/
+       3. indistinguible/
+
+#46. Membrana interdigital entre los dedos manuales I y II/
+       1. basal/
+       2. medial/
+       3. extendida/
+       4. ausente/
+
+#47. Membrana interdigital entre los dedos manuales II y III/
+       1. basal/
+       2. medial/
+       3. extendida/
+       4. ausente/
+
+#48. Membrana interdigital entre los dedos manuales III y IV/
+       1. basal/
+       2. medial/
+       3. extendida/
+       4. ausente/
+
+#49. Ornamentos del tal\u243?n\par{}/
+       1. con pliegue d\u233?rmico transversal\par{}/
+       2. con calcar\par{}/
+       3. con ornamentos ausentes\par{}/
+
+#50. Ornamentos de la regi\u243?n interna del tarso/
+       1. con pliegue tarsal simple\par{}/
+       2. con pliegue tarsal festoneado\par{}/
+       3. con tub\u233?rculos tarsales\par{}/
+       4. con espol\u243?n tarsal\par{}/
+       5. con ornamentos ausentes\par{}/
+
+#51. Ornamentos de la regi\u243?n externa del tarso\par{}/
+       1. con pliegue tarsal simple\par{}/
+       2. con pliegue tarsal festoneado\par{}/
+       3. con tub\u233?rculos ventrolaterales tarsales\par{}/
+       4. con ornamentos ausentes\par{}/
+
+#52. Relaci\u243?n entre el tama\u241?o de los tub\u233?rculos supernumerarios y
+          los tub\u233?rculos subarticulares manuales/
+       1. tub\u233?rculos supernumerarios de tama\u241?o similar o igual que los
+          subarticulares/
+       2. tub\u233?rculos supernumerarios m\u225?s peque\u241?os que los
+          subarticulares/
+
+#53. Longitud de los dedos pediales/
+       1. I<II<III<V<IV/
+       2. I<II<III=V<IV/
+       3. I=II<III<V<IV/
+       4. I<II<III<IV<V/
+       5. I<II<V<III<IV/
+       6. I<II<V<IV<III/
+       7. I<III<II=V<IV/
+       8. II<I<III<V<IV/
+
+#54. Tub\u233?rculos subarticulares pediales/
+       1. distinguibles/
+       2. indistinguibles/
+
+#55. Tub\u233?rculo subarticular distal en el V dedo pedial/
+       1. simple/
+       2. b\u237?fido/
+       3. bipartito/
+       4. ausente/
+
+#56. Tub\u233?rculos supernumerarios pediales/
+       1. distinguibles/
+       2. ausentes/
+
+#57. Relaci\u243?n entre el tama\u241?o de los tub\u233?rculos supernumerarios y
+          los tub\u233?rculos subarticulares pediales/
+       1. tub\u233?rculos supernumerarios de tama\u241?o similar o igual que los
+          subarticulares/
+       2. tub\u233?rculos supernumerarios mas peque\u241?os que los
+          subarticulares/
+
+#58. Tub\u233?rculo metatarsal interno/
+       1. presente/
+       2. ausente/
+
+#59. Tub\u233?rculo metatarsal externo/
+       1. presente/
+       2. ausente/
+
+#60. Relaci\u243?n entre el tama\u241?o de los discos pediales y los discos
+          manuales/
+       1. discos pediales igual que los manuales/
+       2. discos pediales m\u225?s peque\u241?os que los manules/
+       3. discos pediales mas grandes que los manules/
+
+#61. Membrana interdigital entre los dedos pedial I y II/
+       1. basal/
+       2. medial/
+       3. extendida/
+       4. ausente/
+
+#62. Membrana interdigital entre los dedos pediales II y III/
+       1. basal/
+       2. medial/
+       3. extendida/
+       4. ausente/
+
+#63. Membrana interdigital entre los dedos pediales III y IV/
+       1. basal/
+       2. medial/
+       3. extendida/
+       4. ausente/
+
+#64. Membrana interdigital entre los dedos pediales IV y V/
+       1. basal/
+       2. medial/
+       3. extendida/
+       4. ausente/
+
+#65. Abertura anal/
+       1. dirigido posteriormente al nivel superior de los muslos/
+       2. dirigido posteroventralmente al nivel medio de los muslos/
+       3. dirigido ventralmente a nivel inferior de los muslos/
+
+#66. Envoltura anal/
+       1. presente/
+       2. ausente/
+
+#67. Verrugas pericloacales/
+       1. presentes/
+       2. ausentes/
+
+#68. Piel dorsal/
+       1. lisa/
+       2. tubercular/
+       3. granular/
+       4. espiculada/
+       5. verrugosa/
+
+#69. Gl\u225?ndulas/
+       1. lumbares/
+       2. inguinales/
+       3. par\u243?tidas/
+       4. ausentes/
+
+#70. Pliegues dorsales longitudinales/
+       1. presentes/
+       2. ausentes/
+
+#71. Piel ventral/
+       1. lisa/
+       2. tubercular/
+       3. granular/
+       4. areolada/
+       5. espiculada/
+       6. verrugosa/
+
+#72. Transparentaci\u243?n ventral/
+       1. completa/
+       2. parcial/
+       3. ausente/
+
