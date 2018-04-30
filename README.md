@@ -40,7 +40,7 @@ BUCARAMANGA
 
 2018
 
-
+## Para este programa por favor siga la _*Licencia de uso GPL v3*_: https://www.gnu.org/licenses/quick-guide-gplv3.html
 
 
 # Guía para usar la clave interactiva
