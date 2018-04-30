@@ -45,7 +45,7 @@ BUCARAMANGA
 
 # Guía para usar la clave interactiva
 
-Nota: Antes de empezar, por favor clonar o descargar todos los archivos de la carpeta Anexo F
+Nota: Antes de empezar, por favor clonar o descargar todos los archivos de la carpeta Anexo F y D
 
 ### 1. Descargar y descomprimir DELTA
     • Descargar el archivo ZIP DELTA  Open DELTA downloads.
