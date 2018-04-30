@@ -43,7 +43,7 @@ BUCARAMANGA
 
 
 
-# Guía de para usar esta clave 
+# Guía para usar la clave interactiva
 
 Nota: Antes de empezar, por favor clonar o descargar todos los archivos de la carpeta Anexo F
 
